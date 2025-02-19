@@ -132,13 +132,13 @@ const styles = StyleSheet.create({
   sumTitle: {
     fontSize: 25,
     fontFamily: FONTS.black,
-    color: COLORS.main,
+    color: COLORS.white,
     textAlign: 'center',
   },
   sum: {
     fontSize: 30,
     fontFamily: FONTS.bold,
-    color: COLORS.main,
+    color: COLORS.white,
     textAlign: 'center',
     marginLeft: 20,
   },

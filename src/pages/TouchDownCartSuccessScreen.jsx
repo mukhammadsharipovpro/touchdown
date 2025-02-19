@@ -34,7 +34,7 @@ export default function () {
 
       <View style={styles.qrContainer}>
         <QRCode
-          value="https://porterhouse.london/"
+          value="https://pub82.by/sports_broadcasts/"
           size={Dimensions.get('window').width / 2.5}
           color={COLORS.main}
         />
